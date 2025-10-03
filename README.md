@@ -5,5 +5,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring Virtual Machines Using Microsoft Azure Cloud Computing](https://github.com/noahmumma/azure-vm-setup)
 
-- <b>osTicket</b>
-  - [Configuring Virtual Machines Using Microsoft Azure Cloud Computing](https://github.com/noahmumma/azure-vm-setup)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [Prerequisites and Installation](https://github.com/noahmumma/osTicket-prereqs)
