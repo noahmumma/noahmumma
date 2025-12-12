@@ -10,5 +10,5 @@
 
 <h2>🛡️ Blue Teaming Projects:</h2>
 
-- <b>Building an SIEM from scratch</b>
+- <b>Microsoft Azure</b>
   - 
