@@ -8,7 +8,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Prerequisites and Installation](https://github.com/noahmumma/osTicket-prereqs)
 
-<h2>🛡️ Blue Teaming Projects:</h2>
+<h3>🛡️ Blue Teaming Projects:</h3>
 
-- <b>Microsoft Azure</b>
-  - 
+- **Setting up SIEM from scratch**
+
