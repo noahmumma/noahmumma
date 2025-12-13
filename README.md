@@ -1,6 +1,6 @@
 <h1>Hi, I'm Noah, an <a href="(https://www.linkedin.com/in/noah-mumma-9369b035a/)">Aspiring Cybersecurity Professional</a>☺</h1>
 
-<h3>🛡️ Blue Teaming Projects:</h3>
+<h2>🛡️ Blue Teaming Projects:</h2>
 
 - **Setting up SIEM from scratch**
 
