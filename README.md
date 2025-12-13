@@ -2,7 +2,9 @@
 
 <h2>🛡️ Blue Teaming Projects:</h2>
 
-- **Setting up SIEM from scratch**
+- **SIEM and XDR Tool Setup**
+
+  - [Setup and Deployment of Wazuh SIEM tool](https://github.com/noahmumma/SIEM-setup)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
