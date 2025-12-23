@@ -22,7 +22,7 @@
 
 - **Finding Patterns in Personal Data Breaches from the IC3 2023 Report**
 
-  - [PDB IC3](https://github.com/noahmumma/SIEM-setup)
+  - [PDB IC3](https://github.com/noahmumma/PBD-IC3-R)
 
 - **Analyzing Three Databases from the AIID - AIAAIC Reduced Repository**
 
