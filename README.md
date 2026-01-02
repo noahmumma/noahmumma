@@ -8,7 +8,7 @@
 
 - **Wireshark**
 
-  - [Investigating Malicious Files](https://github.com/noahmumma/SIEM-setup)
+  - [Investigating Malicious Files](https://github.com/noahmumma/Wireshark_1)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
