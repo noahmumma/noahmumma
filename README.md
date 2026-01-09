@@ -1,4 +1,4 @@
-<h1>Hi, I'm Noah, an <a href="(https://www.linkedin.com/in/noah-mumma-9369b035a/)">Aspiring Cybersecurity Professional</a>☺</h1>
+<h1>Hi, I'm Noah, an <a href="(https://www.linkedin.com/in/noah-mumma-9369b035a/)">Aspiring Cybersecurity Professional</a></h1>
 
 <h2>🛡️ Blue Teaming Projects:</h2>
 
