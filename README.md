@@ -17,3 +17,9 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Prerequisites and Installation](https://github.com/noahmumma/osTicket-prereqs)
+
+<h2>💻 Coding Projects:</h2>
+
+- **Honeypot**
+
+  - [Building SSH and HTTP honeypot using Python](https://github.com/noahmumma/honeypy)
